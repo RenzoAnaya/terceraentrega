@@ -15,4 +15,8 @@ El Orden en el que se deberían probar las cosas es el siguiente:
 8. Verificar que este ha sido creado.
 9. Repetir el proceso de visualización desde la navbar con los demás modelos y luego el proceso de creado.
 
+Para usar el admin en este caso se deberá poner lo siguiente
+Usuario: admincoder
+Contraseña: Coder2023
+
 Muchas gracias!
